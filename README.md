@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ### Publications
 * [Effects of pH and concentration of sodium citrate anticoagulant on platelet aggregation measured by light transmission aggregometry induced by adenosine diphosphate](https://doi.org/10.1080/09537104.2017.1327655), 2017 Platelets   
-* [Usefulness of the INNOVANCE PFA P2Y test cartridge for the detection of patients with congenital defects of the platelet P2Y12 receptor for adenosine diphosphate](https://doi.org/10.1016/j.thromres.2013.11.022), 2014, Thrombosis Research 
+* [Usefulness of the INNOVANCE PFA P2Y test cartridge for the detection of patients with congenital defects of the platelet P2Y12 receptor for adenosine diphosphate](https://doi.org/10.1016/j.thromres.2013.11.022), 2014 Thrombosis Research 
