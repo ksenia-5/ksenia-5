@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about inclusive design, interaction design and creative coding.
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/kseniagermanovich/) and [Kaggle](https://www.kaggle.com/ksenia5).
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I made an [interactive draw-your-own-jumper](https://vimeo.com/725794493) with creative coding, projection and wool.
+- ⚡ Fun fact: I made an [interactive jumper](https://vimeo.com/725794493) with creative coding, projection and wool.
