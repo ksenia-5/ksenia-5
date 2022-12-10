@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 -->
-- 🔭 I’m currently working on natural language processing (NLP) for sentiment analysis.
+- 🔭 I’m currently working on natural language processing (NLP) for sentiment analysis and chat bot creation.
 - 🌱 I’m learning machine learning (ML) and artificial intelligence (AI).
 - 🐜 I'm a freelance Maths and Science tutor and design researcher.
 - 👀 I'm looking for an ML developer role.
