@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ML for inclusive / interaction / communication / design for wellbeing and health.
 - 💬 Ask me about inclusive design, interaction design and creative coding.
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/kseniagermanovich/) and [Kaggle](https://www.kaggle.com/ksenia5).
-- ⚡ Fun fact: I made an [interactive jumper](https://vimeo.com/725794493) with creative coding, projection and wool, and use code to make [art](https://ksenia-5.github.io/colourstructure/).
+- ⚡ Fun fact: I made an [interactive jumper](https://colourstructure.cloud/pages/interact.html) with creative coding, projection and wool, and use code to make [art](https://colourstructure.cloud/pages/interact.html).
 - 😃 Pronouns: She/Her
 
 ### Education
