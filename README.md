@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 
 
 -->
-- 🔭 I’m currently working on natural language processing (NLP) for sentiment analysis and chat bot creation.
+- 🔭 I’m currently working on a team challenge on object detection in image data, while studying SQL, Python and JavaScript, all with Code First Girls.
 - 🌱 I’m learning machine learning (ML) and artificial intelligence (AI).
-- 🐜 I'm a freelance Maths and Science tutor and design researcher.
+- 🐜 I work as a [Maths and Science tutor](https://www.superprof.co.uk/encouraging-and-supportive-maths-and-science-tuition-london-from-experienced-passionate-and-dedicated-tutor.html) and design researcher. A current project uses webscraping and social media data mining for market research.
 - 👀 I'm looking for an ML developer role.
 - 👯 I’m looking to collaborate on ML for inclusive / interaction / communication / design for wellbeing and health.
 - 💬 Ask me about inclusive design, interaction design and creative coding.
