@@ -3,19 +3,12 @@
 <!--
 **ksenia-5/ksenia-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🤔 I’m looking for help with computer vision.
-
-Here are some ideas to get you started:
-
-
 -->
-- 🔭 I’m currently working on a team challenge on object detection in image data, while studying SQL, Python and JavaScript, all with Code First Girls.
-- 🌱 I’m learning machine learning (ML) and artificial intelligence (AI).
-- 🐜 I work as a [Maths and Science tutor](https://www.superprof.co.uk/encouraging-and-supportive-maths-and-science-tuition-london-from-experienced-passionate-and-dedicated-tutor.html) and design researcher. A current project uses webscraping and social media data mining for market research.
-- 👀 I'm looking for an ML developer role.
-- 👯 I’m looking to collaborate on ML for inclusive / interaction / communication / design for wellbeing and health.
-- 💬 Ask me about inclusive design, interaction design, design research and creative coding.
+
+- 🔭 I am a [Maths and Science tutor](https://www.superprof.co.uk/encouraging-and-supportive-maths-and-science-tuition-london-from-experienced-passionate-and-dedicated-tutor.html) and design researcher, learning ML and AI. 
+- 👯 Open to collaborate on ML and inclusive design projects for wellbeing and health.
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/kseniagermanovich/) and [Kaggle](https://www.kaggle.com/ksenia5).
-- ⚡ Fun fact: I made an [interactive jumper](https://colourstructure.cloud/pages/interact.html) with creative coding, projection and wool, and use code to make [art](https://colourstructure.cloud/pages/interact.html).
+- ⚡ Fun fact: I made an [interactive jumper](https://colourstructure.cloud/pages/interact.html) with creative coding, projection and wool.
 - 😃 Pronouns: She/Her
 
 ### Education
