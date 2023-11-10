@@ -9,7 +9,7 @@
 - I [tutor Maths and Science](https://www.superprof.co.uk/encouraging-and-supportive-maths-and-science-tuition-london-from-experienced-passionate-and-dedicated-tutor.html). 
 - 👯 Open to collaborate on ML and inclusive design projects for wellbeing and health.
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/kseniagermanovich/) and [Kaggle](https://www.kaggle.com/ksenia5).
-- ⚡ Fun fact: I made an [interactive jumper](https://colourstructure.cloud/pages/interact.html) with creative coding, projection and wool.
+- ⚡ Fun fact: I made an interactive jumper with creative coding, projection and wool (link coming soon)!
 - 😃 Pronouns: She/Her
 
 ### Education
