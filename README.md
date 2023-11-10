@@ -5,7 +5,8 @@
 - 🤔 I’m looking for help with computer vision.
 -->
 
-- 🔭 I am a [Maths and Science tutor](https://www.superprof.co.uk/encouraging-and-supportive-maths-and-science-tuition-london-from-experienced-passionate-and-dedicated-tutor.html) and design researcher, learning ML and AI. 
+- 🔭 I am a data analyst and engineer with an interest in data science and machine learning.
+- I [tutor Maths and Science](https://www.superprof.co.uk/encouraging-and-supportive-maths-and-science-tuition-london-from-experienced-passionate-and-dedicated-tutor.html). 
 - 👯 Open to collaborate on ML and inclusive design projects for wellbeing and health.
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/kseniagermanovich/) and [Kaggle](https://www.kaggle.com/ksenia5).
 - ⚡ Fun fact: I made an [interactive jumper](https://colourstructure.cloud/pages/interact.html) with creative coding, projection and wool.
