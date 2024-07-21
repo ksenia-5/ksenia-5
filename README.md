@@ -7,14 +7,13 @@
 
 - 🔭 I am a Microsoft and Databricks certified data analyst and engineer with experience in data analysis, data engineering and data management.
 - Passionate about technology for wellbeing, health and creativity.
-- I [tutor Maths and Science](https://www.superprof.co.uk/encouraging-and-supportive-maths-and-science-tuition-london-from-experienced-passionate-and-dedicated-tutor.html). 
-- 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/kseniagermanovich/) and [Kaggle](https://www.kaggle.com/ksenia5).
+- I tutor Maths and Science - find me on [Superprof](https://www.superprof.co.uk/encouraging-and-supportive-maths-and-science-tuition-london-from-experienced-passionate-and-dedicated-tutor.html). 
 - ⚡ Fun fact: I made an interactive jumper with creative coding, projection and wool
 - 😃 Pronouns: She/Her
    👯 Open to collaboration
 <br>
 
-### Certification
+### Tech Certification
 
 - **Databricks Certified**:
   - [Associate Developer for Apache Spark 3.0](https://credentials.databricks.com/926f99f5-4272-464a-a27f-86472bd01f06)
