@@ -5,12 +5,27 @@
 - 🤔 I’m looking for help with computer vision.
 -->
 
-- 🔭 I am a data analyst and engineer with an interest in data science and machine learning.
+- 🔭 I am a Microsoft and Databricks certified data analyst and engineer with experience in data analysis, data engineering and data management.
+- Passionate about technology for wellbeing, health and creativity.
 - I [tutor Maths and Science](https://www.superprof.co.uk/encouraging-and-supportive-maths-and-science-tuition-london-from-experienced-passionate-and-dedicated-tutor.html). 
-- 👯 Open to collaborate on ML and inclusive design projects for wellbeing and health.
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/kseniagermanovich/) and [Kaggle](https://www.kaggle.com/ksenia5).
-- ⚡ Fun fact: I made an interactive jumper with creative coding, projection and wool (link coming soon)!
+- ⚡ Fun fact: I made an interactive jumper with creative coding, projection and wool
 - 😃 Pronouns: She/Her
+   👯 Open to collaboration
+<br>
+
+### Certification
+
+- **Databricks Certified**:
+  - [Associate Developer for Apache Spark 3.0](https://credentials.databricks.com/926f99f5-4272-464a-a27f-86472bd01f06)
+    
+- **Microsoft Certified**:
+  - [Power BI Data Analyst Associate](https://learn.microsoft.com/en-gb/users/kseniagermanovich-7360/credentials/certification/data-analyst-associate?tab=credentials-tab)
+  - [Azure Data Engineer Associate](https://learn.microsoft.com/en-us/users/kseniagermanovich-7360/credentials/108751bb80d151dc?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+  - [Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/kseniagermanovich-7360/credentials/9aad71f22bad9ccd?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+  - [Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/kseniagermanovich-7360/credentials/1e34b64e99f9c1f3?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+  - [Azure Fundamentals](https://learn.microsoft.com/en-us/users/kseniagermanovich-7360/credentials/130eaee7ce7ea4a0?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+<br>
 
 ### Education
 
