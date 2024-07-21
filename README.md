@@ -10,8 +10,7 @@
 - I tutor Maths and Science - find me on [Superprof](https://www.superprof.co.uk/encouraging-and-supportive-maths-and-science-tuition-london-from-experienced-passionate-and-dedicated-tutor.html). 
 - ⚡ Fun fact: I made an interactive jumper with creative coding, projection and wool
 - 😃 Pronouns: She/Her
-   👯 Open to collaboration
-<br>
+- 👯 Open to collaboration
 
 ### Tech Certification
 
@@ -24,7 +23,6 @@
   - [Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/kseniagermanovich-7360/credentials/9aad71f22bad9ccd?ref=https%3A%2F%2Fwww.linkedin.com%2F)
   - [Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/kseniagermanovich-7360/credentials/1e34b64e99f9c1f3?ref=https%3A%2F%2Fwww.linkedin.com%2F)
   - [Azure Fundamentals](https://learn.microsoft.com/en-us/users/kseniagermanovich-7360/credentials/130eaee7ce7ea4a0?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-<br>
 
 ### Education
 
