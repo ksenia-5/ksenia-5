@@ -15,6 +15,7 @@
 ### Tech Certification
 
 - **Databricks Certified**:
+  - [Data Engineer Associate](https://credentials.databricks.com/0c028aae-dd40-4b29-9706-116fe5c6fb6d)
   - [Associate Developer for Apache Spark 3.0](https://credentials.databricks.com/926f99f5-4272-464a-a27f-86472bd01f06)
     
 - **Microsoft Certified**:
@@ -26,10 +27,12 @@
 
 ### Education
 
+* [Certificate in Artificial Intelligence](https://ksenia-5.github.io/certifcate/), University of Huddersfield, 2023 (14-week full-time skills bootcamp)
 * MA Textiles, Royal College of Art, 2022
 * PhD Clinical Methodology, Università degli Studi di Milano, 2015
 * MSci Natural Sciences, Chemistry, University of Cambridge, 2010
 
 ### Publications
+
 * [Effects of pH and concentration of sodium citrate anticoagulant on platelet aggregation measured by light transmission aggregometry induced by adenosine diphosphate](https://doi.org/10.1080/09537104.2017.1327655), 2017 Platelets   
 * [Usefulness of the INNOVANCE PFA P2Y test cartridge for the detection of patients with congenital defects of the platelet P2Y12 receptor for adenosine diphosphate](https://doi.org/10.1016/j.thromres.2013.11.022), 2014 Thrombosis Research 
