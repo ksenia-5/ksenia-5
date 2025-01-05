@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with computer vision.
 -->
 
-- 🔭 I am a Microsoft and Databricks certified data analyst and engineer with experience in data analysis, data engineering and data management.
+- 🔭 I am a Microsoft and Databricks certified data analytics engineer with experience in data analysis, data engineering and data management.
 - Passionate about technology for wellbeing, health and creativity.
 - I tutor Maths and Science - find me on [Superprof](https://www.superprof.co.uk/encouraging-and-supportive-maths-and-science-tuition-london-from-experienced-passionate-and-dedicated-tutor.html). 
 - ⚡ Fun fact: I made an interactive jumper with creative coding, projection and wool
@@ -15,6 +15,7 @@
 ### Tech Certification
 
 - **Databricks Certified**:
+  - [Machine Learning Associate](https://credentials.databricks.com/c128e859-e4f3-4d96-9325-b6d0f5b67100)  
   - [Data Engineer Associate](https://credentials.databricks.com/0c028aae-dd40-4b29-9706-116fe5c6fb6d)
   - [Associate Developer for Apache Spark 3.0](https://credentials.databricks.com/926f99f5-4272-464a-a27f-86472bd01f06)
     
